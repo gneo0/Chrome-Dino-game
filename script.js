@@ -2,7 +2,6 @@
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
 let canvasWidth = 750;
-// let canvasWidth = (canvas.style.width = '100%');
 let canvasHeight = 250;
 
 // Dino
