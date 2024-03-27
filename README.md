@@ -8,3 +8,5 @@ The project is created with:
 * HTML
 * CSS
 * Javascript
+
+Watch here live [demo](https://chrome-dino242703.netlify.app/)
